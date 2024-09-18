@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A6AB59E4B213F748}nm_Flagreskins/Flagreskins_Logo.edds"
+ Author "n3msi"
+ ChangeDate -1960660686
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "Flagreskins_Logo.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
